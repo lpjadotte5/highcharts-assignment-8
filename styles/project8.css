@@ -1,0 +1,13 @@
+body {
+    background: #000;
+    color: #fff;
+    font-family: Gill Sans, Arial, sans-serif;
+    font-size: 150%;
+    margin: 0;
+    width: 800px; 
+    padding: 20px; 
+    margin: auto; 
+}
+
+a { color: #379CB2; }
+a:hover { color: #82E8FF; }
